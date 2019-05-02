@@ -1,0 +1,17 @@
+{
+    "name": "eddy/usuarios",
+    "description": "paquete para gestionar usuarios y asignar roles y privilegios",
+    "authors": [
+        {
+            "name": "eddy flores c",
+            "email": "eddycampos2011@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "eddy\\gusuarios\\": "src/"
+        }
+    }
+}
